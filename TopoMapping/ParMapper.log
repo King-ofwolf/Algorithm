@@ -1,0 +1,5 @@
+Sun, 17 Mar 2019 18:25:58 ParMapper.py[line:461] INFO task_file:../examples/taskgraph/CloverLeaf128.APHiD,task_size:128
+Sun, 17 Mar 2019 18:25:58 ParMapper.py[line:462] INFO net_file:../examples/netgraph/TimeCostDataFile_240-12-20.txt,net_ct:240,net_node:12,net_core:20
+Sun, 17 Mar 2019 18:25:58 ParMapper.py[line:108] INFO TaskGraph initial done:size 128
+Sun, 17 Mar 2019 18:25:58 ParMapper.py[line:163] INFO NetGraph initial done: ct_size:240,node_size:12,core_size:20
+Sun, 17 Mar 2019 18:25:58 ParMapper.py[line:212] INFO Task initial done

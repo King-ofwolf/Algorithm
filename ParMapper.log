@@ -1,0 +1,5 @@
+Sat, 18 May 2019 16:53:22 ParMapper.py[line:463] INFO task_file:./CommFile/CoMD-mpip/CoMD-mpip_translate/ProcessCommTrace_512.TOPO,task_size:512
+Sat, 18 May 2019 16:53:22 ParMapper.py[line:464] INFO net_file:./TimeCostFile/TimeCostDataFile-512-24,net_ct:512,net_node:22,net_core:24
+Sat, 18 May 2019 16:53:22 ParMapper.py[line:108] INFO TaskGraph initial done:size 512
+Sat, 18 May 2019 16:53:22 ParMapper.py[line:163] INFO NetGraph initial done: ct_size:512,node_size:22,core_size:24
+Sat, 18 May 2019 16:53:22 ParMapper.py[line:212] INFO Task initial done
